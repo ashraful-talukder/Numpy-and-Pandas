@@ -1,2 +1,2 @@
 <h1 align='center'>Numpy-Pandas</h1>
-Here are some basic functions of numpy and pandas
+<h4 align='center'>details will come soon<h4>
